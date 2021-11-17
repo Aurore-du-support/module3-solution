@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+nav{
+    background-color: #f6b319;
+    border-radius: 0;
+}
+
+#description{
+    border-style: solid;
+    border-color: #f6b319;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.container{
+    display: flex;
+}
+.textCentre{
+    text-align: center;
+}
